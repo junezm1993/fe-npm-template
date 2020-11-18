@@ -1,0 +1,13 @@
+/node_modules/
+/.idea/
+/npm-debug.log
+/temp/
+/package-lock.json
+/dist
+/coverage
+.DS_Store
+.vscode
+.VSCodeCounter
+yarn-error.log
+/mock
+./.scannerwork

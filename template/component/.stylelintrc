@@ -1,0 +1,7 @@
+{
+  "extends": "@sjk/fe-stylelint-config",
+  "rules": {
+    "no-duplicate-selectors": null,
+    "no-descending-specificity": null
+  }
+}

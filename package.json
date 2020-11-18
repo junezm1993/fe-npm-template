@@ -1,0 +1,9 @@
+{
+  "name": "@sjk/fe-npm-template",
+  "version": "1.0.2",
+  "repository": "git@git.teammark.cn:teammark/fe-npm-template.git",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.1.2"
+  }
+}
